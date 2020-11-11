@@ -212,6 +212,10 @@ main{
     font-size: 20px;
     color: black;
 }
+.feature-txt h1{
+    font-sizez:20px;
+    color:black;
+}
 .feature-txt h1 a:hover{
     text-decoration: none;
 }
