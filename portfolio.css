@@ -208,12 +208,8 @@ main{
     width:45%;
     text-align:justify
 }
-.feature-txt a　h1{
-    font-size: 20px;
-    color: black;
-}
 .feature-txt h1{
-    font-sizez:20px;
+    font-size:24x;
     color:black;
 }
 .feature-txt h1 a:hover{
