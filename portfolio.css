@@ -208,8 +208,12 @@ main{
     width:45%;
     text-align:justify
 }
-.feature-txt h1{
+.feature-txt h1 a{
     font-size: 20px;
+    color: black;
+}
+.feature-txt h1 a:hover{
+    text-decoration: none;
 }
 .feature-txt .job{
     text-align: left;
